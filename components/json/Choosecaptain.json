@@ -1,0 +1,59 @@
+{
+    "captain":[
+        {
+            "id":"1",
+            "name":"D Vilas",
+            "point":"0",
+            "cby":"1.86%",
+            "vcby":"1.21%"
+        },
+
+        {
+            "id":"2",
+            "name":"J Bird",
+            "point":"145",
+            "cby":"33.55%",
+            "vcby":"11.92"
+        },
+
+        {
+            "id":"3",
+            "name":"T Stubbs",
+            "point":"38",
+            "cby":"2.0%",
+            "vcby":"2.94%"
+        },
+
+        {
+            "id":"4",
+            "name":"R Second",
+            "point":"25",
+            "cby":"1.19%",
+            "vcby":"1.64%"
+        },
+
+        {
+            "id":"5",
+            "name":"R levi",
+            "point":"25",
+            "cby":"2.8%",
+            "vcby":"2.69%"
+        },
+
+        {
+            "id":"6",
+            "name":"K Simmonds",
+            "point":"84",
+            "cby":"6.43%",
+            "vcby":"8.64%"
+        },
+
+        {
+            "id":"7",
+            "name":"k simmonds",
+            "point":"85",
+            "cby":"1.86%",
+            "vcby":"1.21%"
+        }
+    ]
+}

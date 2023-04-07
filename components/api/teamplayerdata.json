@@ -1,0 +1,564 @@
+{
+    "data": {
+        "resource": "teams",
+        "id": 6,
+        "name": "Mumbai Indians",
+        "code": "MI",
+        "image_path": "https:\/\/cdn.sportmonks.com\/images\/cricket\/teams\/6\/6.png",
+        "country_id": 153732,
+        "national_team": false,
+        "updated_at": "2019-02-25T13:49:03.000000Z",
+        "squad": [
+            {
+                "resource": "players",
+                "id": 3212,
+                "country_id": 153732,
+                "firstname": "Ramsingh",
+                "lastname": "Sanjay Yadav",
+                "fullname": "Ramsingh Sanjay Yadav",
+                "image_path": "https:\/\/cdn.sportmonks.com\/images\/cricket\/players\/12\/3212.png",
+                "dateofbirth": "1995-05-10",
+                "gender": "m",
+                "battingstyle": "left-hand-bat",
+                "bowlingstyle": "slow-left-arm-orthodox",
+                "position": {
+                    "resource": "positions",
+                    "id": 4,
+                    "name": "Allrounder"
+                },
+                "updated_at": "2020-09-18T10:12:30.000000Z",
+                "squad": {
+                    "season_id": 932
+                }
+            },
+            {
+                "resource": "players",
+                "id": 35309,
+                "country_id": 146,
+                "firstname": "Dewald",
+                "lastname": "Brevis",
+                "fullname": "Dewald Brevis",
+                "image_path": "https:\/\/cdn.sportmonks.com",
+                "dateofbirth": "2003-04-29",
+                "gender": "m",
+                "battingstyle": "right-hand-bat",
+                "bowlingstyle": "legbreak",
+                "position": {
+                    "resource": "positions",
+                    "id": 4,
+                    "name": "Allrounder"
+                },
+                "updated_at": "2021-12-30T07:52:13.000000Z",
+                "squad": {
+                    "season_id": 932
+                }
+            },
+            {
+                "resource": "players",
+                "id": 24822,
+                "country_id": 153732,
+                "firstname": "Ramandeep",
+                "lastname": "Singh",
+                "fullname": "Ramandeep Singh",
+                "image_path": "https:\/\/cdn.sportmonks.com",
+                "dateofbirth": "1997-04-13",
+                "gender": "m",
+                "battingstyle": "right-hand-bat",
+                "bowlingstyle": "right-arm-fast-medium",
+                "position": {
+                    "resource": "positions",
+                    "id": 1,
+                    "name": "Batsman"
+                },
+                "updated_at": "2021-01-22T10:35:30.000000Z",
+                "squad": {
+                    "season_id": 932
+                }
+            },
+            {
+                "resource": "players",
+                "id": 3347,
+                "country_id": 153732,
+                "firstname": "Mayank",
+                "lastname": "Markande",
+                "fullname": "Mayank Markande",
+                "image_path": "https:\/\/cdn.sportmonks.com\/images\/cricket\/players\/19\/3347.png",
+                "dateofbirth": "1997-11-11",
+                "gender": "m",
+                "battingstyle": "right-hand-bat",
+                "bowlingstyle": "legbreak",
+                "position": {
+                    "resource": "positions",
+                    "id": 2,
+                    "name": "Bowler"
+                },
+                "updated_at": "2020-04-04T11:08:09.000000Z",
+                "squad": {
+                    "season_id": 932
+                }
+            },
+            {
+                "resource": "players",
+                "id": 36503,
+                "country_id": 153732,
+                "firstname": "Aryan",
+                "lastname": "Juyal",
+                "fullname": "Aryan Juyal",
+                "image_path": "https:\/\/cdn.sportmonks.com",
+                "dateofbirth": "2001-11-11",
+                "gender": "m",
+                "battingstyle": "right-hand-bat",
+                "bowlingstyle": null,
+                "position": {
+                    "resource": "positions",
+                    "id": 3,
+                    "name": "Wicketkeeper"
+                },
+                "updated_at": "2022-02-14T06:25:33.000000Z",
+                "squad": {
+                    "season_id": 932
+                }
+            },
+            {
+                "resource": "players",
+                "id": 6667,
+                "country_id": 153732,
+                "firstname": "Arjun",
+                "lastname": "Tendulkar",
+                "fullname": "Arjun Tendulkar",
+                "image_path": "https:\/\/cdn.sportmonks.com\/images\/cricket\/players\/11\/6667.png",
+                "dateofbirth": "1999-09-24",
+                "gender": "m",
+                "battingstyle": "left-hand-bat",
+                "bowlingstyle": "left-arm-fast-medium",
+                "position": {
+                    "resource": "positions",
+                    "id": 4,
+                    "name": "Allrounder"
+                },
+                "updated_at": "2020-03-31T15:15:51.000000Z",
+                "squad": {
+                    "season_id": 932
+                }
+            },
+            {
+                "resource": "players",
+                "id": 8370,
+                "country_id": 153732,
+                "firstname": "Tilak",
+                "lastname": "Varma",
+                "fullname": "Tilak Varma",
+                "image_path": "https:\/\/cdn.sportmonks.com\/images\/cricket\/players\/18\/8370.png",
+                "dateofbirth": "2002-11-08",
+                "gender": "m",
+                "battingstyle": "left-hand-bat",
+                "bowlingstyle": "right-arm-offbreak",
+                "position": {
+                    "resource": "positions",
+                    "id": 1,
+                    "name": "Batsman"
+                },
+                "updated_at": "2020-04-08T07:55:33.000000Z",
+                "squad": {
+                    "season_id": 932
+                }
+            },
+            {
+                "resource": "players",
+                "id": 36506,
+                "country_id": 153732,
+                "firstname": "Hrithik",
+                "lastname": "Shokeen",
+                "fullname": "Hrithik Shokeen",
+                "image_path": "https:\/\/cdn.sportmonks.com",
+                "dateofbirth": "2000-08-14",
+                "gender": "m",
+                "battingstyle": "right-hand-bat",
+                "bowlingstyle": "right-arm-offbreak",
+                "position": {
+                    "resource": "positions",
+                    "id": 4,
+                    "name": "Allrounder"
+                },
+                "updated_at": "2022-02-14T06:26:43.000000Z",
+                "squad": {
+                    "season_id": 932
+                }
+            },
+            {
+                "resource": "players",
+                "id": 34499,
+                "country_id": 153732,
+                "firstname": "Rahul",
+                "lastname": "Buddhi",
+                "fullname": "Rahul Buddhi",
+                "image_path": "https:\/\/cdn.sportmonks.com",
+                "dateofbirth": "1997-09-20",
+                "gender": "m",
+                "battingstyle": "left-hand-bat",
+                "bowlingstyle": "right-arm-offbreak",
+                "position": {
+                    "resource": "positions",
+                    "id": 4,
+                    "name": "Allrounder"
+                },
+                "updated_at": "2021-11-10T08:55:26.000000Z",
+                "squad": {
+                    "season_id": 932
+                }
+            },
+            {
+                "resource": "players",
+                "id": 36509,
+                "country_id": 153732,
+                "firstname": "Arshad",
+                "lastname": "Khan",
+                "fullname": "Arshad Khan",
+                "image_path": "https:\/\/cdn.sportmonks.com",
+                "dateofbirth": "1997-12-20",
+                "gender": "m",
+                "battingstyle": "left-hand-bat",
+                "bowlingstyle": "left-arm-fast-medium",
+                "position": {
+                    "resource": "positions",
+                    "id": 4,
+                    "name": "Allrounder"
+                },
+                "updated_at": "2022-02-14T06:27:57.000000Z",
+                "squad": {
+                    "season_id": 932
+                }
+            },
+            {
+                "resource": "players",
+                "id": 125,
+                "country_id": 24150873,
+                "firstname": "Kieron",
+                "lastname": "Pollard",
+                "fullname": "Kieron Pollard",
+                "image_path": "https:\/\/cdn.sportmonks.com\/images\/cricket\/players\/29\/125.png",
+                "dateofbirth": "1987-05-12",
+                "gender": "m",
+                "battingstyle": "right-hand-bat",
+                "bowlingstyle": "right-arm-fast-medium",
+                "position": {
+                    "resource": "positions",
+                    "id": 4,
+                    "name": "Allrounder"
+                },
+                "updated_at": "2020-04-03T07:21:13.000000Z",
+                "squad": {
+                    "season_id": 932
+                }
+            },
+            {
+                "resource": "players",
+                "id": 278,
+                "country_id": 153732,
+                "firstname": "Rohit",
+                "lastname": "Sharma",
+                "fullname": "Rohit Sharma",
+                "image_path": "https:\/\/cdn.sportmonks.com\/images\/cricket\/players\/22\/278.png",
+                "dateofbirth": "1987-04-30",
+                "gender": "m",
+                "battingstyle": "right-hand-bat",
+                "bowlingstyle": "right-arm-offbreak",
+                "position": {
+                    "resource": "positions",
+                    "id": 1,
+                    "name": "Batsman"
+                },
+                "updated_at": "2020-03-31T12:17:33.000000Z",
+                "squad": {
+                    "season_id": 932
+                }
+            },
+            {
+                "resource": "players",
+                "id": 2795,
+                "country_id": 153732,
+                "firstname": "Jaydev",
+                "lastname": "Unadkat",
+                "fullname": "Jaydev Unadkat",
+                "image_path": "https:\/\/cdn.sportmonks.com\/images\/cricket\/players\/11\/2795.png",
+                "dateofbirth": "1991-10-18",
+                "gender": "m",
+                "battingstyle": "right-hand-bat",
+                "bowlingstyle": "left-arm-fast-medium",
+                "position": {
+                    "resource": "positions",
+                    "id": 2,
+                    "name": "Bowler"
+                },
+                "updated_at": "2020-04-03T05:01:02.000000Z",
+                "squad": {
+                    "season_id": 932
+                }
+            },
+            {
+                "resource": "players",
+                "id": 2879,
+                "country_id": 153732,
+                "firstname": "Suryakumar",
+                "lastname": "Yadav",
+                "fullname": "Suryakumar Yadav",
+                "image_path": "https:\/\/cdn.sportmonks.com\/images\/cricket\/players\/31\/2879.png",
+                "dateofbirth": "1990-09-14",
+                "gender": "m",
+                "battingstyle": "right-hand-bat",
+                "bowlingstyle": "right-arm-fast-medium",
+                "position": {
+                    "resource": "positions",
+                    "id": 1,
+                    "name": "Batsman"
+                },
+                "updated_at": "2020-04-08T05:51:01.000000Z",
+                "squad": {
+                    "season_id": 932
+                }
+            },
+            {
+                "resource": "players",
+                "id": 361,
+                "country_id": 462,
+                "firstname": "Tymal",
+                "lastname": "Mills",
+                "fullname": "Tymal Mills",
+                "image_path": "https:\/\/cdn.sportmonks.com\/images\/cricket\/players\/9\/361.png",
+                "dateofbirth": "1992-08-12",
+                "gender": "m",
+                "battingstyle": "right-hand-bat",
+                "bowlingstyle": "left-arm-fast",
+                "position": {
+                    "resource": "positions",
+                    "id": 2,
+                    "name": "Bowler"
+                },
+                "updated_at": "2020-02-23T10:37:03.000000Z",
+                "squad": {
+                    "season_id": 932
+                }
+            },
+            {
+                "resource": "players",
+                "id": 3137,
+                "country_id": 153732,
+                "firstname": "Murugan",
+                "lastname": "Ashwin",
+                "fullname": "Murugan Ashwin",
+                "image_path": "https:\/\/cdn.sportmonks.com\/images\/cricket\/players\/1\/3137.png",
+                "dateofbirth": "1990-09-08",
+                "gender": "m",
+                "battingstyle": "right-hand-bat",
+                "bowlingstyle": "legbreak-googly",
+                "position": {
+                    "resource": "positions",
+                    "id": 2,
+                    "name": "Bowler"
+                },
+                "updated_at": "2020-04-05T18:05:24.000000Z",
+                "squad": {
+                    "season_id": 932
+                }
+            },
+            {
+                "resource": "players",
+                "id": 284,
+                "country_id": 153732,
+                "firstname": "Jasprit",
+                "lastname": "Bumrah",
+                "fullname": "Jasprit Bumrah",
+                "image_path": "https:\/\/cdn.sportmonks.com\/images\/cricket\/players\/28\/284.png",
+                "dateofbirth": "1993-12-06",
+                "gender": "m",
+                "battingstyle": "right-hand-bat",
+                "bowlingstyle": "right-arm-fast",
+                "position": {
+                    "resource": "positions",
+                    "id": 2,
+                    "name": "Bowler"
+                },
+                "updated_at": "2020-03-31T11:40:57.000000Z",
+                "squad": {
+                    "season_id": 932
+                }
+            },
+            {
+                "resource": "players",
+                "id": 424,
+                "country_id": 462,
+                "firstname": "Jofra",
+                "lastname": "Archer",
+                "fullname": "Jofra Archer",
+                "image_path": "https:\/\/cdn.sportmonks.com\/images\/cricket\/players\/8\/424.png",
+                "dateofbirth": "1995-04-01",
+                "gender": "m",
+                "battingstyle": "right-hand-bat",
+                "bowlingstyle": "right-arm-fast",
+                "position": {
+                    "resource": "positions",
+                    "id": 2,
+                    "name": "Bowler"
+                },
+                "updated_at": "2020-09-13T13:30:01.000000Z",
+                "squad": {
+                    "season_id": 932
+                }
+            },
+            {
+                "resource": "players",
+                "id": 120,
+                "country_id": 24150873,
+                "firstname": "Fabian",
+                "lastname": "Allen",
+                "fullname": "Fabian Allen",
+                "image_path": "https:\/\/cdn.sportmonks.com\/images\/cricket\/players\/24\/120.png",
+                "dateofbirth": "1995-05-07",
+                "gender": "m",
+                "battingstyle": "right-hand-bat",
+                "bowlingstyle": "slow-left-arm-orthodox",
+                "position": {
+                    "resource": "positions",
+                    "id": 4,
+                    "name": "Allrounder"
+                },
+                "updated_at": "2020-04-02T02:16:16.000000Z",
+                "squad": {
+                    "season_id": 932
+                }
+            },
+            {
+                "resource": "players",
+                "id": 3122,
+                "country_id": 153732,
+                "firstname": "Ishan",
+                "lastname": "Kishan",
+                "fullname": "Ishan Kishan",
+                "image_path": "https:\/\/cdn.sportmonks.com\/images\/cricket\/players\/18\/3122.png",
+                "dateofbirth": "1998-07-18",
+                "gender": "m",
+                "battingstyle": "left-hand-bat",
+                "bowlingstyle": null,
+                "position": {
+                    "resource": "positions",
+                    "id": 3,
+                    "name": "Wicketkeeper"
+                },
+                "updated_at": "2020-04-02T12:54:37.000000Z",
+                "squad": {
+                    "season_id": 932
+                }
+            },
+            {
+                "resource": "players",
+                "id": 3227,
+                "country_id": 153732,
+                "firstname": "Basil",
+                "lastname": "Thampi",
+                "fullname": "Basil Thampi",
+                "image_path": "https:\/\/cdn.sportmonks.com\/images\/cricket\/players\/27\/3227.png",
+                "dateofbirth": "1993-09-11",
+                "gender": "m",
+                "battingstyle": "right-hand-bat",
+                "bowlingstyle": "right-arm-fast-medium",
+                "position": {
+                    "resource": "positions",
+                    "id": 2,
+                    "name": "Bowler"
+                },
+                "updated_at": "2020-04-01T02:46:39.000000Z",
+                "squad": {
+                    "season_id": 932
+                }
+            },
+            {
+                "resource": "players",
+                "id": 902,
+                "country_id": 98,
+                "firstname": "Daniel",
+                "lastname": "Sams",
+                "fullname": "Daniel Sams",
+                "image_path": "https:\/\/cdn.sportmonks.com\/images\/cricket\/players\/6\/902.png",
+                "dateofbirth": "1992-10-27",
+                "gender": "m",
+                "battingstyle": "right-hand-bat",
+                "bowlingstyle": "left-arm-fast-medium",
+                "position": {
+                    "resource": "positions",
+                    "id": 4,
+                    "name": "Allrounder"
+                },
+                "updated_at": "2020-12-14T18:47:09.000000Z",
+                "squad": {
+                    "season_id": 932
+                }
+            },
+            {
+                "resource": "players",
+                "id": 4892,
+                "country_id": 153732,
+                "firstname": "Anmolpreet",
+                "lastname": "Singh",
+                "fullname": "Anmolpreet Singh",
+                "image_path": "https:\/\/cdn.sportmonks.com\/images\/cricket\/players\/28\/4892.png",
+                "dateofbirth": "1998-03-28",
+                "gender": "m",
+                "battingstyle": "right-hand-bat",
+                "bowlingstyle": "right-arm-offbreak",
+                "position": {
+                    "resource": "positions",
+                    "id": 1,
+                    "name": "Batsman"
+                },
+                "updated_at": "2020-03-31T14:37:35.000000Z",
+                "squad": {
+                    "season_id": 932
+                }
+            },
+            {
+                "resource": "players",
+                "id": 617,
+                "country_id": 213955,
+                "firstname": "Tim",
+                "lastname": "David",
+                "fullname": "Tim David",
+                "image_path": "https:\/\/cdn.sportmonks.com\/images\/cricket\/players\/9\/617.png",
+                "dateofbirth": "1996-03-16",
+                "gender": "m",
+                "battingstyle": "right-hand-bat",
+                "bowlingstyle": "right-arm-offbreak",
+                "position": {
+                    "resource": "positions",
+                    "id": 1,
+                    "name": "Batsman"
+                },
+                "updated_at": "2020-04-08T07:57:27.000000Z",
+                "squad": {
+                    "season_id": 932
+                }
+            },
+            {
+                "resource": "players",
+                "id": 428,
+                "country_id": 98,
+                "firstname": "Riley",
+                "lastname": "Meredith",
+                "fullname": "Riley Meredith",
+                "image_path": "https:\/\/cdn.sportmonks.com\/images\/cricket\/players\/12\/428.png",
+                "dateofbirth": "1996-06-21",
+                "gender": "m",
+                "battingstyle": "right-hand-bat",
+                "bowlingstyle": "right-arm-fast",
+                "position": {
+                    "resource": "positions",
+                    "id": 2,
+                    "name": "Bowler"
+                },
+                "updated_at": "2020-04-06T08:09:23.000000Z",
+                "squad": {
+                    "season_id": 932
+                }
+            }
+        ]
+    }
+}

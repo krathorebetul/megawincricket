@@ -1,0 +1,25 @@
+{
+   "megacontextFilterData":[
+	{
+	  "id":"1",
+	  "filtername":"ENTRY"
+	},
+
+	{
+	  "id":"2",
+	  "filtername":"SPOTS"
+	},
+	
+	{
+	  "id":"3",
+	  "filtername":"PRIZE POOL"
+	},
+
+	{
+	  "id":"4",
+	  "filtername":"%WINNERS"
+	}
+]
+
+
+}

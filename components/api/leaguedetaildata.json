@@ -1,0 +1,21 @@
+{
+    "data": {
+        "code": "IPL",
+        "country_id": 153732,
+        "id": 1,
+        "image_path": "https://cdn.sportmonks.com/images/cricket/leagues/1/1.png",
+        "name": "Indian Premier League",
+        "resource": "leagues",
+        "season": {
+            "code": "2022",
+            "id": 932,
+            "league_id": 1,
+            "name": "2022",
+            "resource": "seasons",
+            "updated_at": "2021-12-01T14:39:19.000000Z"
+        },
+        "season_id": 932,
+        "type": "league",
+        "updated_at": "2021-12-01T14:39:19.000000Z"
+    }
+}

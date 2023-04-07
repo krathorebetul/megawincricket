@@ -1,0 +1,31 @@
+{
+"notificationData":[
+     {  "id":"1",
+        "text":"You have reached Level 6 and are 4 levels away from a Rs. 10 cash Bonus"
+     },
+
+{  "id":"2",
+        "text":"Congratulations! You have got a 25% discount coupon worth Rs.33 for registering using your friend's referral code. Applicable in select contests"
+     },
+
+{  "id":"3",
+        "text":"Congratulations! You have got a 50% discount coupon worth Rs.33 for registering using your friend's referral code. Applicable in select contests"
+     },
+
+{
+	"id":"4",
+	"text":"Your deposit of Rs.8 was successful."
+},
+
+{
+ 	"id":"5",
+	"text":"We're glad to have you on board! Wish you a long & sucessful innings on Dream11."    
+},
+
+
+{
+	"id":"6",
+	"text":"Congratulations! You have got a 75% discount coupon worth Rs.33 for registering using your friend's referral code. Applicable in select contests"
+}     
+      ]
+   }

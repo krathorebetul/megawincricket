@@ -1,0 +1,130 @@
+{
+    "Contest": [
+        {
+            "id": 1,
+            "prizePool":"Rs 10 Lac",
+            "firstPrice":"Rs 9,500Lac",
+            "chanceOfPercent":"59%",
+            "maxEntries":"upto20",
+            "spotTotal":425714,
+            "spotLeft":238618,
+            "entryFees":"Rs 29",
+            "assurity":"Guaranteed"
+          
+            
+        },
+        {
+            "id": 2,
+            "prizePool":"Rs 8 Lakhs",
+            "firstPrice":"Rs 1.5 Lac",
+            "chanceOfPercent":"60%",
+            "maxEntries":"upto11",
+            "spotTotal":1955,
+            "spotLeft":1923,
+            "entryFees":"Rs 499",
+            "assurity":"Guaranteed"
+        },
+        {
+            "id": 3,
+            "prizePool":"Rs 6 Lakhs",
+            "firstPrice":"Rs 7500 Lakh",
+            "chanceOfPercent":"60%",
+            "maxEntries":"upto11 ",
+            "spotTotal":285714,
+            "spotLeft":5853,
+            "entryFees":"Rs 125",
+            "assurity":"Guaranteed"
+        },
+        {
+            "id": 4,
+            "prizePool":"Rs 3 Lakhs",
+            "firstPrice":"Rs 50,000 Lakh",
+            "chanceOfPercent":"57%",
+            "maxEntries":"upto11",
+            "spotTotal":2455,
+            "spotLeft":2210,
+            "entryFees":"Rs 149",
+            "assurity":"Guaranteed"
+        },
+        {
+            "id": 5,
+            "prizePool":"Rs 3 Lakhs",
+            "firstPrice":"Rs 1 Lakh",
+            "chanceOfPercent":"65%",
+            "maxEntries":"upto11",
+            "spotTotal":975,
+            "spotLeft":716,
+            "entryFees":"Rs 375",
+            "assurity":"Guaranteed"
+        },
+        {
+            "id": 6,
+            "prizePool":"Rs 3 Lakhs",
+            "firstPrice":"Rs 6000 Lakh",
+            "chanceOfPercent":"55%",
+            "maxEntries":"upto11",
+            "spotTotal":127,
+            "spotLeft":122,
+            "entryFees":"Rs 2,875",
+            "assurity":"Guaranteed"
+        },
+        {
+            "id": 7,
+            "prizePool":"Rs 2 Lakhs",
+            "firstPrice":"Rs 1 Lakh",
+            "chanceOfPercent":"46%",
+            "maxEntries":"upto6",
+            "spotTotal":24,
+            "spotLeft":9,
+            "entryFees":"Rs 9999 ",
+            "assurity":"Guaranteed"
+        },
+        {
+            "id": 8,
+            "prizePool":"Rs 2 Lakhs",
+            "firstPrice":"Rs 9500 Lakh",
+            "chanceOfPercent":"50%",
+            "maxEntries":"upto11",
+            "spotTotal":2463,
+            "spotLeft":2353,
+            "entryFees":"Rs 99",
+            "assurity":"Guaranteed"
+        },
+        {
+            "id": 9,
+            "prizePool":"Rs 1000 ",
+            "firstPrice":"Rs 20",
+            "chanceOfPercent":"50%",
+            "maxEntries":"single",
+            "spotTotal":100,
+            "spotLeft":75,
+            "entryFees":"Rs 10",
+            "assurity":"Guaranteed"
+        },
+        {
+            "id": 10,
+            "prizePool":"Rs 49",
+            "firstPrice":"Rs 49",
+            "chanceOfPercent":"33%",
+            "maxEntries":"single",
+            "spotTotal":3,
+            "spotLeft":3,
+            "entryFees":"Rs 17",
+            "assurity":"Guaranteed"
+        },
+
+        {
+            "id": 11,
+            "prizePool":"Rs 29,350",
+            "firstPrice":"Rs 17,850",
+            "chanceOfPercent":"67%",
+            "maxEntries":"single",
+            "spotTotal":3,
+            "spotLeft":3,
+            "entryFees":"Rs 10999",
+            "assurity":"Guaranteed"
+        }
+       
+
+    ]
+}

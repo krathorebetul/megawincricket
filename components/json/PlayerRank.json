@@ -1,0 +1,99 @@
+{
+    "playerRank": [
+        {
+            "id":1,
+            "rank":1,
+            "name":"YuvRaj vk",
+            "wonPrice":1.25       
+        },
+        {
+            "id": 2,
+            "rank":1,
+            "name":"Sachin vk",
+            "wonPrice":9500   
+        },
+        {
+            "id": 3,
+            "rank":1,
+            "name":"Vansu rathore",
+            "wonPrice":9250
+        
+        },
+        {
+            "id": 4,
+            "rank":1,
+            "name":"jayant vk",
+            "wonPrice":2000
+        },
+        {
+            "id":5,
+            "rank":1,
+            "name":"mansa24224",
+            "wonPrice":3000
+        },
+        {
+            "id": 6,
+            "rank":1,
+            "name":"jayant vk",
+            "wonPrice":1.25
+        },
+        {
+            "id": 7,
+            "rank":1,
+            "name":"kamlesh rathore",
+            "wonPrice":1.25
+        },
+        {
+            "id": 8,
+            "rank":1,
+            "name":"jayant vk",
+            "wonPrice":1.25
+        },
+        {
+            "id": 9,
+            "rank":1,
+            "name":"Anuj Dubey",
+            "wonPrice":1
+        },
+        {
+            "id": 10,
+            "rank":1,
+            "name":"jayant vk",
+            "wonPrice":50000
+        },
+
+        {
+            "id": 11,
+            "rank":1,
+            "name":"washim khan",
+            "wonPrice":1000
+        },
+        {
+            "id":12,
+            "teamName_One": "Pak i Care",
+            "rank":1,
+            "name":"jayant vk",
+            "wonPrice":1.25
+        },
+        {
+            "id": 13,
+            "rank":1,
+            "name":"Vikash Sahu",
+            "wonPrice":1.25
+        },
+        {
+            "id": 14,
+            "rank":1,
+            "name":"Sanni yadav",
+            "wonPrice":1.25
+        },
+
+        {
+            "id": 15,
+            "rank":1,
+            "name":"samir chohan",
+            "wonPrice":1.25
+        }
+
+    ]
+}

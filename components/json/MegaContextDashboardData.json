@@ -1,0 +1,20 @@
+{
+   "dashboardfilternameData":[
+	{
+	  "id":1,
+	  "dashboardfiltername":"Contests"
+	},
+
+	{
+	  "id":2,
+	  "dashboardfiltername":"My Contests(0)"
+	},
+	
+	{
+	  "id":3,
+	  "dashboardfiltername":"My Teams(0)"
+	}
+]
+
+
+}

@@ -1,0 +1,162 @@
+{
+    "Winners": [
+        {
+            "id":1,
+            "teamName_One": "Darsaint Titans",
+            "teamName_Two": "Bousher Busters",
+            "sortName_One":"DAT",
+            "sortName_Two":"BOB",
+            "Date":"20 mar,2022",
+            "pricePool":60,
+            "typeMatch":"FanCode Oman D10"
+            
+        },
+        {
+            "id":2,
+            "teamName_One": "Ruwi Rangers",
+            "teamName_Two": "Ghubrah Giants",
+            "sortName_One":"RUR",
+            "sortName_Two":"GGI",
+            "Date":"21 mar,2022",
+            "pricePool":80,
+            "typeMatch":"FanCode Oman D10"
+            
+        },
+        {
+            "id":3,
+            "teamName_One": "Azaiba xi",
+            "teamName_Two": "Khuwair Warriors",
+            "sortName_One":"AZA",
+            "sortName_Two":"KHW",
+            "Date":"21 mar,2022",
+
+            "pricePool":70,
+            "typeMatch":"FanCode Oman D10"
+        },
+        {
+            "id":4,
+            "teamName_One": "Australia Woman",
+            "teamName_Two": "West Indies Women",
+            "sortName_One":"AU-W",
+            "sortName_Two":"WI-W",
+            "Date":"21 mar,2022",
+
+            "pricePool":5,
+            "typeMatch":"ICC Women's ODI World Cup"
+        },
+        {
+            "id":5,
+            "teamName_One": "South Australian Scorpions",
+            "teamName_Two": "ACT Meterors",
+            "sortName_One":"SAU-W",
+            "sortName_Two":"AM-W",
+            "Date":"22 mar,2022",
+            "pricePool": 90,
+
+            "typeMatch":"Australia Women's ODD"
+        },
+        {
+            "id": 6,
+            "teamName_One": "Western Australia Women",
+            "teamName_Two": "Queensland Fire",
+            "sortName_One":"WA-W",
+            "sortName_Two":"QUN-W",
+            "Date":"27 mar,2022",
+            "pricePool": 90,
+            "typeMatch":"Australia Women's ODD"
+        },
+        {
+            "id": 7,
+            "teamName_One": "Victoria",
+            "teamName_Two": "Tasmania",
+            "sortName_One":"VCT",
+            "sortName_Two":"TAS",
+            "Date":"29 mar,2022",
+            "pricePool":70,
+            "typeMatch":"Sheffield Shield"
+        },
+        {
+            "id": 8,
+            "teamName_One": "City Cricket Club",
+            "teamName_Two": "Indian Club",
+            "sortName_One":"CTC",
+            "sortName_Two":"ICL",
+            "Date":"19 mar,2022",
+            "pricePool": 90,
+            "typeMatch":"BYJU'S Assam Premier Club T20 Chanmpiopnship"
+        },
+        {
+            "id": 9,
+            "teamName_One": "United Arab Emirates",
+            "teamName_Two": "Papu New Guinea",
+            "sortName_One":"UAE",
+            "sortName_Two":"PNG",
+            "Date":"11 mar,2022",
+            "pricePool": 80,
+            "typeMatch":"CWC league-2 One-Day"
+        },
+        {
+            "id": 10,
+            "teamName_One": "Titabor CCC",
+            "teamName_Two": "BDMTCC",
+            "sortName_One":"TIC",
+            "sortName_Two":"BDM",
+            "Date":"23 mar,2022",
+            "pricePool": 70,
+            "typeMatch":"BYJU'S Assam Premier Club T20 Chanmpiopnship"
+        },
+
+        {
+            "id": 11,
+            "teamName_One": "Alby Zalmi CF",
+            "teamName_Two": "Brigade",
+            "sortName_One":"ALZ",
+            "sortName_Two":"BRI",
+            "Date":"21 mar,2022",
+            "pricePool": 50,
+            "typeMatch":"European Cricket League T10"
+        },
+        {
+            "id":12,
+            "teamName_One": "Pak i Care",
+            "teamName_Two": "Tunbridge Wells",
+            "sortName_One":"PIC",
+            "sortName_Two":"TW",
+            "Date":"20 mar,2022",
+            "pricePool": 10,
+            "typeMatch":"European Cricket League T10"
+        },
+        {
+            "id": 13,
+            "teamName_One": "Brescia cc",
+            "teamName_Two": "Alby Zalmi CF",
+            "sortName_One":"BRE",
+            "sortName_Two":"ALZ",
+            "Date":"24 mar,2022",
+            "pricePool": 20,
+            "typeMatch":"European Cricket League T10"
+        },
+        {
+            "id": 14,
+            "teamName_One": "Amerat Royals",
+            "teamName_Two": "Darsaint Titans",
+            "sortName_One":"AMR",
+            "sortName_Two":"DAT",
+            "Date":"21 mar,2022",
+            "pricePool": 50,
+            "typeMatch":"FanCode Oman D10"
+        },
+
+        {
+            "id": 15,
+            "teamName_One": "Pak I Care",
+            "teamName_Two": "Brigade",
+            "sortName_One":"PIC",
+            "Date":"26 mar,2022",
+            "pricePool": 11,
+            "sortName_Two":"BRI",
+            "typeMatch":"FanCode Oman D10"
+        }
+
+    ]
+}

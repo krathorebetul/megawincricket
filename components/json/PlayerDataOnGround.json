@@ -1,0 +1,85 @@
+{
+"playerdataonground":
+[
+    
+{
+"id":1,
+"name":"YuvRaj vk",
+"point":10,
+"url":"https://english.cdn.zeenews.com/sites/default/files/2019/11/04/828382-799337-kohli1-1.jpg",
+"role":"WK"
+
+},
+{
+"id":2,
+"name":"Sachin vk",
+"point":9,
+"url":"https://english.cdn.zeenews.com/sites/default/files/2019/11/04/828382-799337-kohli1-1.jpg",
+"role":"BOW"
+},
+{
+"id":3,
+"name":"Vansu rathore",
+"point":11,
+"url":"https://english.cdn.zeenews.com/sites/default/files/2019/11/04/828382-799337-kohli1-1.jpg",
+"role":"WK"
+},
+{
+"id":4,
+"name":"jayant vk",
+"point":8.5,
+"url":"https://english.cdn.zeenews.com/sites/default/files/2019/11/04/828382-799337-kohli1-1.jpg",
+"role":"BAT"
+},
+{
+"id":5,
+"name":"mansa24224",
+"point":9,
+"url":"https://english.cdn.zeenews.com/sites/default/files/2019/11/04/828382-799337-kohli1-1.jpg",
+"role":"BAT"
+},
+{
+"id":6,
+"name":"jayant vk",
+"point":10,
+"url":"https://english.cdn.zeenews.com/sites/default/files/2019/11/04/828382-799337-kohli1-1.jpg",
+"role":"AR"
+},
+{
+"id":7,
+"name":"kamlesh rathore",
+"point":11,
+"url":"https://english.cdn.zeenews.com/sites/default/files/2019/11/04/828382-799337-kohli1-1.jpg",
+"role":"WK"
+},
+{
+"id":8,
+"name":"jayant vk",
+"point":8.5,
+"url":"https://english.cdn.zeenews.com/sites/default/files/2019/11/04/828382-799337-kohli1-1.jpg",
+"role":"AR"
+},
+{
+"id":9,
+"name":"Anuj Dubey",
+"point":10,
+"url":"https://english.cdn.zeenews.com/sites/default/files/2019/11/04/828382-799337-kohli1-1.jpg",
+"role":"WK"
+},
+{
+"id":10,
+"name":"jayant vk",
+"point":9.5,
+"url":"https://english.cdn.zeenews.com/sites/default/files/2019/11/04/828382-799337-kohli1-1.jpg",
+"role":"AR"
+},
+{
+"id":11,
+"name":"washim khan",
+"point":10.5,
+"rank":1,
+"url":"https://english.cdn.zeenews.com/sites/default/files/2019/11/04/828382-799337-kohli1-1.jpg",
+"role":"BOW"
+}
+]
+}

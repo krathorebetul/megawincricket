@@ -1,0 +1,87 @@
+{
+  "m1" : [ {
+    "assurity" : "Guaranteed",
+    "chanceOfPercent" : "59%",
+    "entryFees" : 30,
+    "firstPriceRsIn":"RS",
+    "firstPrice" : 9500,
+    "id" : 101,
+    "maxEntries" : "upto20",
+    "prizepoolRsIn":"LAC",
+    "prizePool" :10,
+    "spotLeft" : 238618,
+    "spotTotal" : 425714
+  }, {
+    "assurity" : "Guaranteed",
+    "chanceOfPercent" : "60%",
+    "entryFees" :499,
+    "firstPriceRsIn":"LAC",
+    "firstPrice" :1.5,
+    "id" : 102,
+    "maxEntries" : "upto11",
+    "prizepoolRsIn":"LAC",
+    "prizePool" :8,
+    "spotLeft" : 1923,
+    "spotTotal" : 1955
+  }, {
+    "assurity" : "Guaranteed",
+    "chanceOfPercent" : "60%",
+    "entryFees" : 125,
+    "firstPriceRsIn":"RS",
+    "firstPrice" : 7500,
+    "id" : 103,
+    "maxEntries" : "upto11 ",
+    "prizepoolRsIn":"LAC",
+    "prizePool" :6,
+    "spotLeft" : 5853,
+    "spotTotal" : 285714
+  }, {
+    "assurity" : "Guaranteed",
+    "chanceOfPercent" : "57%",
+    "entryFees" : 149,
+    "firstPriceRsIn":"RS",
+    "firstPrice" :50000,
+    "id" : 104,
+    "maxEntries" : "upto11",
+    "prizepoolRsIn":"LAC",
+    "prizePool" :3,
+    "spotLeft" : 2210,
+    "spotTotal" : 2455
+  }, {
+    "assurity" : "Guaranteed",
+    "chanceOfPercent" : "65%",
+    "entryFees" :375,
+    "firstPriceRsIn":"LAC",
+    "firstPrice" : 1,
+    "id" : 105,
+    "maxEntries" : "upto11",
+    "prizepoolRsIn":"LAC",
+    "prizePool" :3,
+    "spotLeft" : 716,
+    "spotTotal" : 975
+  }, {
+    "assurity" : "Guaranteed",
+    "chanceOfPercent" : "55%",
+    "entryFees" : 2875,
+    "firstPriceRsIn":"RS",
+    "firstPrice" : 6000,
+    "id" : 106,
+    "maxEntries" : "upto11",
+    "prizepoolRsIn":"LAC",
+    "prizePool" : 3,
+    "spotLeft" : 122,
+    "spotTotal" : 127
+  }, {
+    "assurity" : "Guaranteed",
+    "chanceOfPercent" : "46%",
+    "entryFees" : 9999,
+    "firstPriceRsIn":"LAC",
+    "firstPrice" :1,
+    "id" : 107,
+    "maxEntries" : "upto6",
+    "prizepoolRsIn":"RS",
+    "prizePool" : 2,
+    "spotLeft" : 9,
+    "spotTotal" : 24
+  } ]
+}
